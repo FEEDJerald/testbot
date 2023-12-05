@@ -1,0 +1,4 @@
+pause
+pyrogram
+asyncpg
+loguru
